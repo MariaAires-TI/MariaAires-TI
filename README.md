@@ -1,9 +1,7 @@
 <h1> Oi! Eu sou Maria👋</h1>
 - 🌱 I’m currently learning, HTML, CSS, JavaScripty, SQL, NodeJS, EJS, POO and Automated testing with cypress.
 - 📫 How to reach me: @cidinhalima_sh and cidinhalima_12@hotmail.com
-
-
-
+<br>
 <div align="center">
   <a href="https://github.com/MariaAires-TI">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaAires-TI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
