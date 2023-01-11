@@ -1,7 +1,6 @@
+## 🚀 Sobre mim
 <h1> Oi! Eu sou Maria👋</h1>
-- 🌱 I’m currently learning, HTML, CSS, JavaScripty, SQL, NodeJS, EJS, POO and Automated testing with cypress.
-- 📫 How to reach me: @cidinhalima_sh and cidinhalima_12@hotmail.com.
-
+Sou mestra em química, formada pelo Universidade Federal do Rio Grande do Norte (2021). Por incentivo do meu esposo que é desenvolvedor de software, resolvi migrar para área de tecnologia. Ao fazer cursos nas plataformas Rocketseat e Udemy(Automação de testes com o cypress), me identifiquei com a área e por isso, com objetivo de aprofundar os estudos, esse ano (2023) iniciei uma pós-graduação em Desenvolvimento Web Full Stake.
 
 <div align="center">
   <a href="https://github.com/MariaAires-TI">
