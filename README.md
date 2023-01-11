@@ -1,9 +1,10 @@
 ## 🚀 Sobre mim
 <h1> Oi! Eu sou a Maria👋</h1>
 
-<br>
   Sou mestra em química, formada pelo Universidade Federal do Rio Grande do Norte (2021). Por incentivo do meu esposo que é desenvolvedor de software, resolvi migrar para área de tecnologia. Ao fazer cursos nas plataformas Rocketseat e Udemy(Automação de testes com o cypress), me identifiquei com a área e por isso, com objetivo de aprofundar os estudos, esse ano (2023) iniciei uma pós-graduação em Desenvolvimento Web Full Stake.
-<br>
+  
+<br></br>
+
 <div align="center">
   <a href="https://github.com/MariaAires-TI">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaAires-TI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
